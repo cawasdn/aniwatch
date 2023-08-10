@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className='max-w-6xl mx-auto'>
+    <div className='max-w-6xl mx-auto p-4'>
       <div className='max-w-3xl space-y-5'>
         <h1 className='text-2xl font-medium text-amber-600'>About</h1>
         <h2>AniWatch - The best site to watch anime online for Free</h2>
@@ -13,7 +13,7 @@ const About = () => {
           than the rest, so we've decided to build AniWatch.to to be one of the
           best free anime streaming site for all anime fans on the world.
         </p>
-        <h2>1/ What is AniWatch</h2>
+        <h2>1/ What is AniWatch?</h2>
         <p>
           AniWatch.to is a free site to watch anime and you can even download
           subbed or dubbed anime in ultra HD quality without any registration or
