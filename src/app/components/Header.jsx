@@ -15,8 +15,9 @@ const Header = () => {
         <DarkModeSwitch />
         <Link href='/'>
           <h2 className='text-2xl'>
+            <span className='mr-2 font-bold'>Movie</span>
             <span className='font-bold bg-amber-500 py-2 px-2 rounded-lg'>
-              AniWatch
+              Trends
             </span>
             <span className='text-xl hidden sm:inline'></span>
           </h2>
